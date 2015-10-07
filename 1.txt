@@ -1,1 +1,8 @@
-hello words1
+
+hello words
+
+kill all
+pomidorka
+ogurechik
+
+commit otmenen
